@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K22 -DL -O11111114 -fo8 -N"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\LCD_UART.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\" "LCD_UART.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Button.mcl" "__Lib_ADC_K22_B.mcl" "__Lib_UART_c67d67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	LCD_UART.c
+warning: 163	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	LCD_UART.c
+diagnostics: 183	123	Compiled Successfully	LCD_UART.c
+diagnostics: 0	127	All files Compiled in 281 ms	 
+hint: 0	1144	Used RAM (bytes): 346 (23%)  Free RAM (bytes): 1169 (77%)	Used RAM (bytes): 346 (23%)  Free RAM (bytes): 1169 (77%)
+hint: 0	1144	Used ROM (bytes): 22094 (67%)  Free ROM (bytes): 10674 (33%)	Used ROM (bytes): 22094 (67%)  Free ROM (bytes): 10674 (33%)
+diagnostics: 0	125	Project Linked Successfully	LCD_UART.mcppi
+diagnostics: 0	128	Linked in 750 ms	 
+diagnostics: 0	129	Project 'LCD_UART.mcppi' completed: 1203 ms	 
+diagnostics: 0	103	Finished successfully: 02 mars 2020, 02:10:07	LCD_UART.mcppi

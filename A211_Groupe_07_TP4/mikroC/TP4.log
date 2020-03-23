@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K22 -DL -O11111114 -fo8 -N"C:\Users\HE303710\Desktop\Simple LCD\TP4.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\HE303710\Desktop\Simple LCD\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\HE303710\Desktop\Simple LCD\" "TP4.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Button.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	TP4.c
+diagnostics: 106	123	Compiled Successfully	TP4.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 24 (2%)  Free RAM (bytes): 1491 (98%)	Used RAM (bytes): 24 (2%)  Free RAM (bytes): 1491 (98%)
+hint: 0	1144	Used ROM (bytes): 1062 (3%)  Free ROM (bytes): 31706 (97%)	Used ROM (bytes): 1062 (3%)  Free ROM (bytes): 31706 (97%)
+diagnostics: 0	125	Project Linked Successfully	TP4.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'TP4.mcppi' completed: 109 ms	 
+diagnostics: 0	103	Finished successfully: 09 mars 2020, 11:57:30	TP4.mcppi

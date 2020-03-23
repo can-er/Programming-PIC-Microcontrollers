@@ -1,0 +1,4 @@
+main
+	__CC2DW
+	decalage_gauche
+	decalage_droite

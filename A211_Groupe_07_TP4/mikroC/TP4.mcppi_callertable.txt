@@ -1,0 +1,9 @@
+main
+	__CC2DW
+	Update_display
+		Div_16X16_U
+	update_value
+		Button
+			Delay_500us
+		setValue
+Interrupt
